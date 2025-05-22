@@ -12,4 +12,3 @@ public class App
         System.out.println("Я добавил что-то новое");
     }
 }
-св
